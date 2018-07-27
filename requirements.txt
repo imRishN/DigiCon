@@ -1,0 +1,10 @@
+Flask==0.12.2
+subprocess32==3.2.7
+requests==2.18.4
+numpy==1.14.2
+simplejson==3.13.2
+pprint
+opencv-python
+matplotlib==2.0.2
+nltk
+
